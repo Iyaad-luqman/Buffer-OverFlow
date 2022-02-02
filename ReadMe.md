@@ -1,6 +1,6 @@
 # Buffer overflow
 
-## Concept:
+## Notes:
 
 - `EIP` Register is our middleman, if we can exploit it, we can execute our payload.
 - `ESP` Register is where we execute our commands
